@@ -12,8 +12,6 @@ This dataset provides comprehensive Bitcoin (BTC) 1-second OHLCV (Open, High, Lo
 - **Part 2 Rows:** 110,671,732
 
 ## Files Included
-- `half1_BTCUSDT_1s.csv` - Contains the first half of the dataset (110,671,733 rows).
-- `half2_BTCUSDT_1s.csv` - Contains the second half of the dataset (110,671,732 rows).
+- [Part 1](https://www.kaggle.com/datasets/tzelal/binance-bitcoin-dataset-1s-timeframe-p1): `half1_BTCUSDT_1s.csv` - Contains the first half of the dataset (110,671,733 rows).
+- [Part 2](https://www.kaggle.com/datasets/tzelal/binance-bitcoin-dataset-1s-timeframe-p2): `half2_BTCUSDT_1s.csv` - Contains the second half of the dataset (110,671,732 rows).
 
-- Part 1: https://www.kaggle.com/datasets/tzelal/binance-bitcoin-dataset-1s-timeframe-p1
-- Part 2: https://www.kaggle.com/datasets/tzelal/binance-bitcoin-dataset-1s-timeframe-p2
